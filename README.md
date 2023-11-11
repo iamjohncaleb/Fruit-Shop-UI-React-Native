@@ -1,7 +1,7 @@
 # Fruit-Shop-UI-React-Native
-
+ <!--
 ![Image](https://cdn.dribbble.com/userupload/5932943/file/original-0f5867a7710b4800371334a4bb4c3d98.png?compress=1&resize=2048x1536)
-  <!--
+ 
   <p align="left">
     <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <p>
