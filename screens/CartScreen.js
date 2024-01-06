@@ -8,7 +8,8 @@ import StarRating from 'react-native-star-rating';
 import FruitCardCart from '../components/fruitCardCart';
 import { cartItems } from '../constants';
 
-  
+
+
 export default function CartScreen(props) {
     const navigation = useNavigation();
   return (
