@@ -8,6 +8,7 @@ import { useNavigation } from '@react-navigation/native';
 import FruitCardSales from '../components/fruitCardSales';
 import { featuredFruits, categories } from '../constants';
 
+
 export default function HomeScreen() {
   const [activeCategory, setActiveCategory] = useState('Oranges');
   const navigation = useNavigation();
