@@ -1,5 +1,18 @@
 # Fruit-Shop-UI-React-Native
 
+## Tech Stack
+
+### Frontend
+<div>
+    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="Expo" />
+    <img src="https://img.shields.io/badge/-Redux-black?style=for-the-badge&logoColor=white&logo=redux&color=764ABC" alt="Redux" />
+    <img src="https://img.shields.io/badge/-React_Navigation-black?style=for-the-badge&logoColor=white&logo=react&color=33B2FF" alt="React Navigation" />
+    <img src="https://img.shields.io/badge/-Styled_Components-black?style=for-the-badge&logoColor=white&logo=styled-components&color=DB7093" alt="Styled Components" />
+    <img src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logoColor=white&logo=axios&color=5A29E4" alt="Axios" />
+</div>
+
+
 ![Image](https://www.instagram.com/p/CzgVgJNtZtB/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 ![Image](https://cdn.dribbble.com/userupload/5932943/file/original-0f5867a7710b4800371334a4bb4c3d98.png?compress=1&resize=2048x1536)
