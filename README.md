@@ -1,7 +1,3 @@
-# Fruit-Shop-UI-React-Native
-
-## Tech Stack
-
 ### Frontend
 <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
@@ -12,6 +8,9 @@
     <img src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logoColor=white&logo=axios&color=5A29E4" alt="Axios" />
 </div>
 
+# Fruit-Shop-UI-React-Native
+
+## Tech Stack
 
 ![Image](https://www.instagram.com/p/CzgVgJNtZtB/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
