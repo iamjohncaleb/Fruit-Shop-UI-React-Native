@@ -1,7 +1,7 @@
 # Fruit-Shop-UI-React-Native
 
 ![Image](https://www.instagram.com/p/CzgVgJNtZtB/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
- <!--
+
 ![Image](https://cdn.dribbble.com/userupload/5932943/file/original-0f5867a7710b4800371334a4bb4c3d98.png?compress=1&resize=2048x1536)
  
   <p align="left">
