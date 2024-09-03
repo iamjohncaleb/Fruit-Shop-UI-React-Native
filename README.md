@@ -44,7 +44,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Fruit-Shop-UI-React-Native.git
+git clone https://github.com/iamjohncaleb/Fruit-Shop-UI-React-Native.git
 cd Fruit-Shop-UI-React-Native
 Install dependencies:
 
