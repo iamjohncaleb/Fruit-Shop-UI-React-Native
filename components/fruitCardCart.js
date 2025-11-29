@@ -1,3 +1,33 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import { View, Text, TouchableOpacity, Image } from 'react-native'
 import React from 'react'
 import { themeColors } from '../theme'
