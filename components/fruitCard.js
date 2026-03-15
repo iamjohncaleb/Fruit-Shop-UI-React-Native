@@ -3,7 +3,6 @@
 
 
 
-
 import { View, Text, TouchableOpacity, Image } from 'react-native'
 import React, { useState } from 'react'
 import { HeartIcon } from 'react-native-heroicons/solid'
