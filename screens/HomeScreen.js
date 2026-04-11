@@ -5,7 +5,6 @@
 
 
 
-
 import { View, Text, TouchableOpacity, Image, ScrollView, Touchable } from 'react-native'
 import React, { useState } from 'react'
 import { SafeAreaView } from 'react-native-safe-area-context'
